@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damnpedrini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1012433428995641515/1012433429603811414/1012433896685707294">
+<img align="right" alt="Pedrini-GiF" height="150" style="border-radius:50px;" src="https://discord.com/channels/1012433428995641515/1012433429603811414/1012433896685707294">
 
 
 </div>
