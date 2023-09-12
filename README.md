@@ -1,6 +1,4 @@
 ## Hi, I'm Washington Pedrini 🇧🇷 
-A Brazilian Software/QA Engineer currently is using javascript to build stuff.
-
 ### Actually Im working with: 
 Javascript
 
