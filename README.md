@@ -1,4 +1,4 @@
-## Hi, I'm Washington Pedrini 🇧🇷 
+## Hi, I'm Washington Pedrini 
 ### Actually Im working with: 
 Javascript
 
